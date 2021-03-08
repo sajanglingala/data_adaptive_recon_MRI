@@ -1,0 +1,419 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files
+END
+nufft_gauss.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/nufft_gauss.m
+END
+isvar.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/isvar.m
+END
+nufft_scale.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/nufft_scale.m
+END
+test_fft2.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/test_fft2.m
+END
+nufft_r.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/nufft_r.m
+END
+nufft1_kernel.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/nufft1_kernel.m
+END
+nufft_init.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/nufft_init.m
+END
+interp_table_test.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/interp_table_test.m
+END
+spdiag.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/spdiag.m
+END
+interp2_table_adj_mex.mexmaci
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/interp2_table_adj_mex.mexmaci
+END
+kaiser,m=0.mat
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/kaiser,m=0.mat
+END
+nufft_interp_zn.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/nufft_interp_zn.m
+END
+nufft_tune_kaiser.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/nufft_tune_kaiser.m
+END
+kaiser,m=2.mat
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/kaiser,m=2.mat
+END
+interp2_table_mex.mexglx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/interp2_table_mex.mexglx
+END
+nufft_table_init.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/nufft_table_init.m
+END
+nufft1_time.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/nufft1_time.m
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/Makefile
+END
+nufft_alpha.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/nufft_alpha.m
+END
+nufft_offset.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/nufft_offset.m
+END
+interp1_table_adj_mex.mexglx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/interp1_table_adj_mex.mexglx
+END
+interp2_table_mex.mexmaci
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/interp2_table_mex.mexmaci
+END
+dtft2_adj.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/dtft2_adj.m
+END
+my_fftn.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/my_fftn.m
+END
+readme
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/readme
+END
+interp1_table_adj_mex.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/interp1_table_adj_mex.c
+END
+interp2_table_adj_mex.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/interp2_table_adj_mex.c
+END
+interp3_table_adj_mex.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/interp3_table_adj_mex.c
+END
+example_nufft1_reverse.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/example_nufft1_reverse.m
+END
+dtft_mex.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/dtft_mex.m
+END
+interp3_table_mex.mexglx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/interp3_table_mex.mexglx
+END
+col.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/col.m
+END
+nufft_coef.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/nufft_coef.m
+END
+dtft_adj.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/dtft_adj.m
+END
+kb,notes,matej
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/kb,notes,matej
+END
+dtft2.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/dtft2.m
+END
+fig_taper_cos3.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/fig_taper_cos3.m
+END
+nufft_table_test.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/nufft_table_test.m
+END
+interp1_table_mex.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/interp1_table_mex.c
+END
+reale.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/reale.m
+END
+interp2_table_adj_mex.mexglx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/interp2_table_adj_mex.mexglx
+END
+interp2_table_mex.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/interp2_table_mex.c
+END
+interp3_table_mex.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/interp3_table_mex.c
+END
+nufft_gauss2.mat
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/nufft_gauss2.mat
+END
+nufft_adj.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/nufft_adj.m
+END
+nufft_best_gauss.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/nufft_best_gauss.m
+END
+dtft.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/dtft.m
+END
+nufft1_err_mm.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/nufft1_err_mm.m
+END
+nufft_alpha_kb_fit.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/nufft_alpha_kb_fit.m
+END
+interp1_table_adj_mex.mexmaci
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/interp1_table_adj_mex.mexmaci
+END
+interp3_table_adj_mex.mexmaci
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/interp3_table_adj_mex.mexmaci
+END
+nufft_table_interp.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/nufft_table_interp.m
+END
+nufft.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/nufft.m
+END
+interp1_table_mex.mexmaci
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/interp1_table_mex.mexmaci
+END
+interp3_table_adj_mex.mexglx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/interp3_table_adj_mex.mexglx
+END
+interp3_table_mex.mexmaci
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/interp3_table_mex.mexmaci
+END
+nufft_diric.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/nufft_diric.m
+END
+streq.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/streq.m
+END
+nufft_best_alpha.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/nufft_best_alpha.m
+END
+kaiser_bessel_ft.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/kaiser_bessel_ft.m
+END
+nufft_T.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/nufft_T.m
+END
+nufft2_err_mm.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/nufft2_err_mm.m
+END
+nufft_table_adj.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/nufft_table_adj.m
+END
+interp1_table_mex.mexglx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/interp1_table_mex.mexglx
+END
+kaiser_bessel.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/kaiser_bessel.m
+END
+nufft1_error.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/nufft1_error.m
+END
+nufft_tune_gauss.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/nufft_tune_gauss.m
+END
+dtft1.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/dtft1.m
+END
+outer_sum.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/outer_sum.m
+END

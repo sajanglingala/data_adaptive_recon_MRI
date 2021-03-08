@@ -1,0 +1,8 @@
+/Users/ahhmed/Downloads/gpuNUFFT-master/CUDA/build/doc/CMakeFiles/doc.dir
+/Users/ahhmed/Downloads/gpuNUFFT-master/CUDA/build/src/gpu/atomic/CMakeFiles/gpuNUFFT_ATM_f.dir
+/Users/ahhmed/Downloads/gpuNUFFT-master/CUDA/build/src/gpu/coarse/CMakeFiles/gpuNUFFT_f.dir
+/Users/ahhmed/Downloads/gpuNUFFT-master/CUDA/build/src/gpu/matlab/CMakeFiles/mex_gpuNUFFT_adj_atomic_f.dir
+/Users/ahhmed/Downloads/gpuNUFFT-master/CUDA/build/src/gpu/matlab/CMakeFiles/mex_gpuNUFFT_adj_f.dir
+/Users/ahhmed/Downloads/gpuNUFFT-master/CUDA/build/src/gpu/matlab/CMakeFiles/mex_gpuNUFFT_forw_atomic_f.dir
+/Users/ahhmed/Downloads/gpuNUFFT-master/CUDA/build/src/gpu/matlab/CMakeFiles/mex_gpuNUFFT_forw_f.dir
+/Users/ahhmed/Downloads/gpuNUFFT-master/CUDA/build/src/gpu/matlab/precomputation/CMakeFiles/mex_gpuNUFFT_precomp_f.dir

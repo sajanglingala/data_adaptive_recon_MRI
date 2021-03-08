@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/private
+END
+kaiser_bessel_ft.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/private/kaiser_bessel_ft.m
+END
+nufft_T.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/private/nufft_T.m
+END
+nufft_alpha.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/private/nufft_alpha.m
+END
+nufft_offset.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/private/nufft_offset.m
+END
+kaiser,m=0.mat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/private/kaiser,m=0.mat
+END
+nufft_interp_zn.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/private/nufft_interp_zn.m
+END
+kaiser,m=2.mat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/private/kaiser,m=2.mat
+END
+nufft_gauss2.mat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/private/nufft_gauss2.mat
+END
+nufft_coef.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/private/nufft_coef.m
+END
+nufft_r.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/SPIRiT/!svn/ver/6/trunk/nufft_files/private/nufft_r.m
+END
